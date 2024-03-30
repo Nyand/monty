@@ -140,4 +140,4 @@ julien@ubuntu:~/monty$
 
 ## Author:
 
-[Mehari Hagos](https://github.com/Hagos2022/monty/)
+[Robert Nyandoro](https://github.com/Nyand/monty/)
